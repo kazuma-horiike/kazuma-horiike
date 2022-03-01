@@ -1,6 +1,4 @@
-<style>
-  img {max-width:600px; margin:10px;}
-  </style>
+
 #　グーグルタグマネージャー（以下：GTM）とグーグルアナリティクス４（以下：GA4）を使った設定方法
 WordpressのGoogle公式プラグイン「[Site Kit by Google](https://sitekit.withgoogle.com)」を使用する場合は[別の方法](https://www.onamae.com/column/blog/33/)があります。
 
