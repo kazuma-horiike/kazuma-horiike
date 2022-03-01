@@ -102,7 +102,13 @@ WordpressのGoogle公式プラグイン「[Site Kit by Google](https://sitekit.w
 1. 管理 ＞ データストリーム ＞ ストリーム選択 ＞ ウェブ ストリームの詳細　＞ タグ付けの詳細設定 ＞ ドメインの設定　で 『マッチタイプ：含む or 先頭が一致』に。『ドメイン：クロスドメインにしたいドメイン』を設定。![](anchor_ga4_7_1.png)
 2. 管理 ＞ データストリーム ＞ ストリーム選択 ＞ ウェブ ストリームの詳細　＞ タグ付けの詳細設定 ＞ 内部トラフィックの定義 ＞ 内部トラフィック ルールの作成　で 『ルール：わかりやすい名前』に。IPアドレスの『マッチタイプ：IPアドレスが次と等しい』『値：IPアドレス』（IPアドレスは[CMAN](https://www.cman.jp/network/support/go_access.cgi)などで確認できます。）を設定。![](anchor_ga4_7_5.png) ![](anchor_ga4_7_6.png)
 
+#### <span id="anchor_ga4_8">Search Console のリンク</span>
 
+1. [Search Console](https://search.google.com/search-console?hl=ja)にアクセスし、プロパティを追加。DNSを使用してドメイン所有者の確認をします。![](anchor_ga4_8_1.png) ![](anchor_ga4_8_2.png)
+2. 管理 ＞ Search Console のリンク で『リンク』をクリックして新規リンクを作成します。![](anchor_ga4_8_3.png)
+3. Search Console プロパティを選択　で　先ほど作成したSearch Consoleのプロパティを選択します。![](anchor_ga4_8_4.png)
+4. ウェブストリームを選択します。![](anchor_ga4_8_5.png)
+5. 確認して送信　をクリックします。![](anchor_ga4_8_6.png)
 
 ## GTMの設定
   
